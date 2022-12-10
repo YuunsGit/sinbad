@@ -4,12 +4,19 @@
     "private": true,
     "homepage": "https://sinbad.yuuns.tech",
     "dependencies": {
+        "@heroicons/react": "^2.0.13",
         "@testing-library/jest-dom": "^5.16.5",
         "@testing-library/react": "^13.4.0",
         "@testing-library/user-event": "^13.5.0",
+        "localforage": "^1.10.0",
+        "match-sorter": "^6.3.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
+        "react-parallax-mouse": "^2.0.1",
+        "react-router-dom": "^6.4.5",
         "react-scripts": "5.0.1",
+        "react-scroll": "^1.8.8",
+        "sort-by": "^1.2.0",
         "web-vitals": "^2.1.4"
     },
     "scripts": {
@@ -39,6 +46,9 @@
         ]
     },
     "devDependencies": {
-        "gh-pages": "^4.0.0"
+        "autoprefixer": "^10.4.13",
+        "gh-pages": "^4.0.0",
+        "postcss": "^8.4.19",
+        "tailwindcss": "^3.2.4"
     }
 }
