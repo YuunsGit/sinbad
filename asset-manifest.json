@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3829fc20.css",
-    "main.js": "/static/js/main.2b4c643d.js",
+    "main.css": "/static/css/main.566ffb29.css",
+    "main.js": "/static/js/main.28034d28.js",
     "static/media/Montserrat-BoldItalic.woff": "/static/media/Montserrat-BoldItalic.bf331673b91821715c08.woff",
     "static/media/Montserrat-BlackItalic.woff": "/static/media/Montserrat-BlackItalic.fbf405b6c45f55a09aec.woff",
     "static/media/Montserrat-ExtraBoldItalic.woff": "/static/media/Montserrat-ExtraBoldItalic.1357e84ca56356a41d5c.woff",
@@ -76,12 +76,15 @@
     "static/media/MontserratAlternates-Thin.woff2": "/static/media/MontserratAlternates-Thin.71edc5673abb2057ec43.woff2",
     "static/media/Main.svg": "/static/media/Main.47c0982aedf51fcfacaa8b1b7873c897.svg",
     "static/media/Logo.svg": "/static/media/Logo.7dd478b0cd830e8b368101c2e74f52e7.svg",
+    "static/media/Dude-03.svg": "/static/media/Dude-03.bfaf5874324fb52d8c3bd64c7e4d8b34.svg",
+    "static/media/Dude-02.svg": "/static/media/Dude-02.5f3bec6491872b41f658e48c579c1b9c.svg",
+    "static/media/Dude-01.svg": "/static/media/Dude-01.b7fdc141617c41157d038cd4c37f9ebf.svg",
     "index.html": "/index.html",
-    "main.3829fc20.css.map": "/static/css/main.3829fc20.css.map",
-    "main.2b4c643d.js.map": "/static/js/main.2b4c643d.js.map"
+    "main.566ffb29.css.map": "/static/css/main.566ffb29.css.map",
+    "main.28034d28.js.map": "/static/js/main.28034d28.js.map"
   },
   "entrypoints": [
-    "static/css/main.3829fc20.css",
-    "static/js/main.2b4c643d.js"
+    "static/css/main.566ffb29.css",
+    "static/js/main.28034d28.js"
   ]
 }
