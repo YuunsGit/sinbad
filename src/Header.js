@@ -3,19 +3,13 @@ import { ReactComponent as Logo } from "./img/Logo.svg";
 
 export default function Header() {
     return (
-        <header className="flex justify-center md:justify-between mx-auto max-w-7xl px-4 sm:px-6 bg-white my-6">
+        <header className="flex justify-center md:justify-between mx-auto max-w-7xl px-4 sm:px-6 my-6">
             <Logo className="h-20 lg:h-24" />
-            <ul className="flex space-x-4 md:space-x-12 text-center my-auto font-semibold">
-                <Link
-                    to=""
-                    className="cursor-pointer hidden my-auto md:inline-block"
-                >
+            <ul className="flex space-x-4 md:space-x-12 text-center my-auto font-semibold text-primary-400">
+                <Link to="" className="cursor-pointer hidden my-auto md:inline-block">
                     About
                 </Link>
-                <Link
-                    to=""
-                    className="cursor-pointer hidden my-auto md:inline-block"
-                >
+                <Link to="" className="cursor-pointer hidden my-auto md:inline-block">
                     Contact
                 </Link>
                 <Link
