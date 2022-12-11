@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.566ffb29.css",
-    "main.js": "/static/js/main.28034d28.js",
+    "main.css": "/static/css/main.76e06e34.css",
+    "main.js": "/static/js/main.6ee7dcdb.js",
     "static/media/Montserrat-BoldItalic.woff": "/static/media/Montserrat-BoldItalic.bf331673b91821715c08.woff",
     "static/media/Montserrat-BlackItalic.woff": "/static/media/Montserrat-BlackItalic.fbf405b6c45f55a09aec.woff",
     "static/media/Montserrat-ExtraBoldItalic.woff": "/static/media/Montserrat-ExtraBoldItalic.1357e84ca56356a41d5c.woff",
@@ -76,15 +76,30 @@
     "static/media/MontserratAlternates-Thin.woff2": "/static/media/MontserratAlternates-Thin.71edc5673abb2057ec43.woff2",
     "static/media/Main.svg": "/static/media/Main.47c0982aedf51fcfacaa8b1b7873c897.svg",
     "static/media/Logo.svg": "/static/media/Logo.7dd478b0cd830e8b368101c2e74f52e7.svg",
+    "static/media/Talent.svg": "/static/media/Talent.a6e4e440becc0e60efc0d6988672a1ec.svg",
     "static/media/Dude-03.svg": "/static/media/Dude-03.bfaf5874324fb52d8c3bd64c7e4d8b34.svg",
     "static/media/Dude-02.svg": "/static/media/Dude-02.5f3bec6491872b41f658e48c579c1b9c.svg",
+    "static/media/Core.svg": "/static/media/Core.4ef9ad67cbcf6519b4dc935842d9627d.svg",
     "static/media/Dude-01.svg": "/static/media/Dude-01.b7fdc141617c41157d038cd4c37f9ebf.svg",
+    "static/media/RaspberryPi.svg": "/static/media/RaspberryPi.2bf110d9c2349a13f4ffa94fc81d2991.svg",
+    "static/media/MySQL.svg": "/static/media/MySQL.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/Nodejs.svg": "/static/media/Nodejs.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/Photoshop.svg": "/static/media/Photoshop.769673ed88dc328daf3c420aa6e05be3.svg",
+    "static/media/Blender.svg": "/static/media/Blender.e1f221731ac65bcde0af5dd6b72ef338.svg",
+    "static/media/Python.svg": "/static/media/Python.d470d57fd15c2169c8856f48ec330d68.svg",
+    "static/media/Unity.svg": "/static/media/Unity.fd6f3d47f522d0619346ef2e9187caa7.svg",
+    "static/media/Tensorflow.svg": "/static/media/Tensorflow.d8daf38fb26cdb0b94112df193af013f.svg",
+    "static/media/Arduino.svg": "/static/media/Arduino.30ed4db9a3493c634291730a2dc6610a.svg",
+    "static/media/linkedin-filled.svg": "/static/media/linkedin-filled.719bc42f7487aa604742d55952eb21f5.svg",
+    "static/media/JavaScript.svg": "/static/media/JavaScript.acc4642f682cd93a4c20a8a02c0cfa21.svg",
+    "static/media/instagram-filled.svg": "/static/media/instagram-filled.af7acfb9043fcfcbe3c4d45c062398c6.svg",
     "index.html": "/index.html",
-    "main.566ffb29.css.map": "/static/css/main.566ffb29.css.map",
-    "main.28034d28.js.map": "/static/js/main.28034d28.js.map"
+    "static/media/React.svg": "/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.76e06e34.css.map": "/static/css/main.76e06e34.css.map",
+    "main.6ee7dcdb.js.map": "/static/js/main.6ee7dcdb.js.map"
   },
   "entrypoints": [
-    "static/css/main.566ffb29.css",
-    "static/js/main.28034d28.js"
+    "static/css/main.76e06e34.css",
+    "static/js/main.6ee7dcdb.js"
   ]
 }
