@@ -1,3 +1,3 @@
 export default function Core() {
-    return <div>sa</div>;
+    return <div>Core Form</div>;
 }

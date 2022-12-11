@@ -1,3 +1,3 @@
 export default function Talent() {
-    return <div>sa</div>;
+    return <div>Talent Form</div>;
 }
