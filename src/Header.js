@@ -6,7 +6,7 @@ export default function Header() {
     return (
         <header className="flex justify-center md:justify-between mx-auto max-w-7xl px-4 sm:px-6 my-6">
             <RouteLink to="/">
-                <Logo className="h-20 lg:h-24" />
+                <Logo className="h-24 md:h-20 lg:h-24" />
             </RouteLink>
             <ul className="flex space-x-4 md:space-x-12 text-center my-auto font-semibold text-primary-400">
                 <Link to="about" smooth className="cursor-pointer hidden my-auto md:inline-block">

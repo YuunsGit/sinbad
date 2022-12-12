@@ -99,10 +99,10 @@ export default function Fields() {
     ];
 
     return (
-        <div className="max-w-[80%] lg:max-w-[60%] mx-auto my-40">
-            <h1 className="text-5xl font-extrabold text-center text-primary-400 pb-10">Fields of Activity</h1>
+        <div className="max-w-[80%] lg:max-w-[60%] mx-auto">
+            <h1 className="text-3xl md:text-5xl font-extrabold text-center text-primary-400 pb-4 md:pb-10">Fields of Activity</h1>
             <Tab.Group>
-                <Tab.List className="flex flex-col md:flex-row space-x-1 rounded-xl bg-primary-100 p-1">
+                <Tab.List className="flex flex-col md:flex-row space-x-0 md:space-x-1 rounded-xl bg-primary-100 p-1">
                     {fields.map((field) => (
                         <Tab
                             key={field.id}
@@ -122,7 +122,7 @@ export default function Fields() {
                     {fields.map((field) => (
                         <Tab.Panel
                             className="relative rounded-xl bg-sky-50 p-3 focus:outline-none
-                                before:content-[''] before:bg-primary-100 before:w-[110%] before:h-[90%]
+                                before:content-[''] before:bg-primary-100 before:w-[110%] before:h-[80%] md:before:h-[90%]
                                  before:-left-[5%] before:absolute before:-z-10 before:rounded-xl before:duration-150
                                  hover:before:w-[114%] hover:before:-left-[7%]"
                         >

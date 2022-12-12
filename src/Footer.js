@@ -5,25 +5,25 @@ import { ReactComponent as Linkedin } from "./img/linkedin-filled.svg";
 export default function Footer() {
     return (
         <>
-            <footer className="bg-stone-100 py-6 px-[5%] md:px-[30%] flex flex-col justify-between w-screen text-stone-500 clear-both">
+            <footer className="bg-sky-100 text-primary-300 py-6 px-[5%] md:px-[30%] flex flex-col justify-between w-screen clear-both">
                 <div className="text-center mx-auto">
-                    Made with <HeartIcon className="w-5 h-5 inline-block fill-red-500 hover:animate-bounce" /> by Yunus
+                    Made with <HeartIcon className="w-5 h-5 inline-block fill-red-400 hover:animate-bounce" /> by Yunus
                     Emre Kepenek
                 </div>
-                <hr className="my-6 border-stone-300" />
+                <hr className="my-6 border-primary-300 w-[60%] mx-auto" />
                 <div className="text-center mx-auto flex space-x-2">
                     <a href="https://www.instagram.com/sinbaddigibox/" target="_blank" rel="noreferrer">
-                        <Instagram className="w-5 h-5 fill-stone-600 hover:fill-stone-800 m-1" />
+                        <Instagram className="w-5 h-5 fill-primary-300 hover:fill-primary-500 m-1" />
                     </a>
                     <a href="https://www.linkedin.com/company/81796044" target="_blank" rel="noreferrer">
-                        <Linkedin className="w-5 h-5 fill-stone-600 hover:fill-stone-800 m-1" />
+                        <Linkedin className="w-5 h-5 fill-primary-300 hover:fill-primary-500 m-1" />
                     </a>
                 </div>
                 <div className="text-center mx-auto">
                     This is an{" "}
                     <a
                         href="https://github.com/YuunsGit/sinbad"
-                        className="underline underline-offset-2 hover:text-stone-900 inline-block z-0"
+                        className="underline underline-offset-2 hover:text-primary-500 inline-block z-0"
                         target="_blank"
                         rel="noreferrer"
                     >
