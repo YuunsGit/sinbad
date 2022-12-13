@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.04049ac6.css",
-    "main.js": "/static/js/main.bd2a80c3.js",
+    "main.js": "/static/js/main.68ab4620.js",
     "static/media/Montserrat-BoldItalic.woff": "/static/media/Montserrat-BoldItalic.bf331673b91821715c08.woff",
     "static/media/Montserrat-BlackItalic.woff": "/static/media/Montserrat-BlackItalic.fbf405b6c45f55a09aec.woff",
     "static/media/Montserrat-ExtraBoldItalic.woff": "/static/media/Montserrat-ExtraBoldItalic.1357e84ca56356a41d5c.woff",
@@ -96,10 +96,10 @@
     "static/media/instagram-filled.svg": "/static/media/instagram-filled.af7acfb9043fcfcbe3c4d45c062398c6.svg",
     "static/media/React.svg": "/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.04049ac6.css.map": "/static/css/main.04049ac6.css.map",
-    "main.bd2a80c3.js.map": "/static/js/main.bd2a80c3.js.map"
+    "main.68ab4620.js.map": "/static/js/main.68ab4620.js.map"
   },
   "entrypoints": [
     "static/css/main.04049ac6.css",
-    "static/js/main.bd2a80c3.js"
+    "static/js/main.68ab4620.js"
   ]
 }
