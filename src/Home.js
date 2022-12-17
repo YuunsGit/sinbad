@@ -27,9 +27,9 @@ export default function Home() {
 
     return (
         <main>
-            <div className="flex flex-col-reverse md:flex-row justify-center my-16 md:my-20 mx-auto md:max-w-[90%] lg:max-w-[80%] px-4 sm:px-6">
+            <div className="flex flex-col-reverse md:flex-row justify-center my-16 md:my-20 mx-auto md:max-w-[90%] xl:max-w-[80%] px-4 sm:px-6">
                 <header className="font-extrabold md:font-black mg:w-[40%] lg:w-[30%] my-auto z-10">
-                    <h1 className="text-center mt-6 md:mt-0 text-4xl md:text-5xl md:text-left lg:text-7xl text-primary-400 whitespace-nowrap">
+                    <h1 className="text-center mt-6 md:mt-0 text-4xl md:text-5xl md:text-left xl:text-7xl text-primary-400 whitespace-nowrap">
                         A place for
                         <br />
                         <span
@@ -47,15 +47,15 @@ export default function Home() {
                 <Main className="relative w-[90%] md:w-[60%] h-auto overflow-visible mx-auto md:mx-0" />
             </div>
             <Element name="about">
-                <About/>
+                <About />
             </Element>
-            <hr className="my-20 max-w-[60%] mx-auto border-2 border-sky-100 rounded"/>
+            <hr className="my-20 max-w-[60%] mx-auto border-2 border-sky-100 rounded" />
             <Element name="fields">
                 <Fields />
             </Element>
-            <hr className="my-20 max-w-[60%] mx-auto border-2 border-sky-100 rounded"/>
+            <hr className="my-20 max-w-[60%] mx-auto border-2 border-sky-100 rounded" />
             <Element name="teams">
-                <Teams/>
+                <Teams />
             </Element>
         </main>
     );
