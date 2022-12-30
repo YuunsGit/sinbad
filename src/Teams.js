@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 export default function Teams() {
     return (
-        <div className="mb-16">
+        <div className="mb-20 md:mb-60">
             <h1 className="text-3xl md:text-5xl font-extrabold text-center text-primary-400 pb-4 md:pb-10">Teams</h1>
             <div className="flex flex-col md:flex-row justify-around max-w-[80%] lg:max-w-[60%] mx-auto ">
                 <div className="flex flex-col justify-between prose py-12 bg-sky-100 rounded-3xl md:w-[45%] text-lg hover:bg-sky-200 duration-300">

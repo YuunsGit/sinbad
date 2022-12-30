@@ -1,5 +1,4 @@
 import { Tab } from "@headlessui/react";
-import { motion, AnimatePresence } from "framer-motion";
 import { CodeBracketSquareIcon, CpuChipIcon, CircleStackIcon, PuzzlePieceIcon } from "@heroicons/react/24/solid";
 
 import { ReactComponent as Arduino } from "./img/tools/Arduino.svg";
@@ -100,7 +99,9 @@ export default function Fields() {
 
     return (
         <div className="max-w-[80%] lg:max-w-[60%] mx-auto">
-            <h1 className="text-3xl md:text-5xl font-extrabold text-center text-primary-400 pb-4 md:pb-10">Fields of Activity</h1>
+            <h1 className="text-3xl md:text-5xl font-extrabold text-center text-primary-400 pb-4 md:pb-10">
+                Fields of Activity
+            </h1>
             <Tab.Group>
                 <Tab.List className="flex flex-col md:flex-row space-x-0 md:space-x-1 rounded-xl bg-primary-100 p-1">
                     {fields.map((field) => (
