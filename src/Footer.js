@@ -11,8 +11,8 @@ export default function Footer() {
             </div>
             <div className="bg-sky-100 text-primary-300 py-6 px-[5%] md:px-[30%] flex flex-col justify-between w-screen clear-both">
                 <div className="text-center mx-auto">
-                    Made with <HeartIcon className="w-5 h-5 inline-block fill-red-400 hover:animate-bounce" /> by Yunus
-                    Emre Kepenek
+                    Made with <HeartIcon className="w-5 h-5 inline fill-red-400 hover:animate-bounce" /> by Yunus Emre
+                    Kepenek
                 </div>
                 <hr className="my-6 border-primary-300 w-[60%] mx-auto" />
                 <div className="text-center mx-auto flex space-x-2">
