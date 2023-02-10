@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a75d57e7.css",
-    "main.js": "/static/js/main.751739f8.js",
+    "main.css": "/static/css/main.49362311.css",
+    "main.js": "/static/js/main.cb6a3d97.js",
     "static/media/Montserrat-BoldItalic.woff": "/static/media/Montserrat-BoldItalic.bf331673b91821715c08.woff",
     "static/media/Montserrat-BlackItalic.woff": "/static/media/Montserrat-BlackItalic.fbf405b6c45f55a09aec.woff",
     "static/media/Montserrat-ExtraBoldItalic.woff": "/static/media/Montserrat-ExtraBoldItalic.1357e84ca56356a41d5c.woff",
@@ -90,17 +90,17 @@
     "static/media/Python.svg": "/static/media/Python.d470d57fd15c2169c8856f48ec330d68.svg",
     "static/media/Unity.svg": "/static/media/Unity.fd6f3d47f522d0619346ef2e9187caa7.svg",
     "static/media/Tensorflow.svg": "/static/media/Tensorflow.d8daf38fb26cdb0b94112df193af013f.svg",
-    "static/media/Arduino.svg": "/static/media/Arduino.30ed4db9a3493c634291730a2dc6610a.svg",
     "index.html": "/index.html",
+    "static/media/Arduino.svg": "/static/media/Arduino.30ed4db9a3493c634291730a2dc6610a.svg",
     "static/media/linkedin-filled.svg": "/static/media/linkedin-filled.719bc42f7487aa604742d55952eb21f5.svg",
     "static/media/JavaScript.svg": "/static/media/JavaScript.acc4642f682cd93a4c20a8a02c0cfa21.svg",
     "static/media/instagram-filled.svg": "/static/media/instagram-filled.af7acfb9043fcfcbe3c4d45c062398c6.svg",
     "static/media/React.svg": "/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.a75d57e7.css.map": "/static/css/main.a75d57e7.css.map",
-    "main.751739f8.js.map": "/static/js/main.751739f8.js.map"
+    "main.49362311.css.map": "/static/css/main.49362311.css.map",
+    "main.cb6a3d97.js.map": "/static/js/main.cb6a3d97.js.map"
   },
   "entrypoints": [
-    "static/css/main.a75d57e7.css",
-    "static/js/main.751739f8.js"
+    "static/css/main.49362311.css",
+    "static/js/main.cb6a3d97.js"
   ]
 }
