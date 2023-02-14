@@ -13,7 +13,7 @@ export default function Home() {
   useEffect(() => {
     if (isMobile) return;
 
-    const bgClass = "uuid-89c47746-18bd-4d0f-bdb8-9d5316f86a5c";
+    const bgClass = "uuid-21d8dcf6-c4ef-4b67-adb7-97569fdae9bb";
     const bgCollection = document.getElementsByClassName(bgClass);
     const bgItems = [...bgCollection];
     const parallax = (e) => {
@@ -32,7 +32,7 @@ export default function Home() {
       <div className="flex flex-col-reverse md:flex-row justify-center my-16 md:my-20 mx-auto md:max-w-[90%] xl:max-w-[80%] px-4 sm:px-6">
         <header className="font-extrabold md:font-black mg:w-[40%] lg:w-[30%] my-auto z-10">
           <h1 className="text-center mt-6 md:mt-0 text-4xl md:text-5xl md:text-left xl:text-7xl text-primary-400 whitespace-nowrap">
-            A place for
+            <span className="font-bold">A place for</span>
             <br />
             <span
               id="ambitious"
@@ -43,7 +43,7 @@ export default function Home() {
               ambitious
             </span>
             <br />
-            people.
+            <span className="font-bold">people.</span>
           </h1>
         </header>
         <Main className="relative w-[90%] md:w-[60%] h-auto overflow-visible mx-auto md:mx-0" />
