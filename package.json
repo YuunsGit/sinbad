@@ -2,7 +2,7 @@
     "name": "sinbad",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://www.sinbaddigibox.com",
+    "homepage": "https://sinbad.yuuns.tech",
     "dependencies": {
         "@headlessui/react": "^1.7.5",
         "@heroicons/react": "^2.0.13",
