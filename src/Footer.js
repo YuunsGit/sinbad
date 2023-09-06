@@ -11,7 +11,7 @@ export default function Footer() {
           Made with <HeartIcon className="w-5 h-5 inline fill-red-400" /> by{" "}
           <br />
           <a
-            href="https://www.yuuns.tech/"
+            href="https://www.yunusemre.dev/"
             target="_blank"
             rel="noreferrer"
             className="font-semibold hover:text-primary-400 duration-100"

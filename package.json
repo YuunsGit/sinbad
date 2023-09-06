@@ -2,7 +2,7 @@
     "name": "sinbad",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://sinbad.yuuns.tech",
+    "homepage": "https://sinbad.yunusemre.dev",
     "dependencies": {
         "@headlessui/react": "^1.7.5",
         "@heroicons/react": "^2.0.13",
